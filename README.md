@@ -16,3 +16,15 @@ As a librarian you can view, add, delete and edit books. Librarian can handle th
 
 To choose the option from menu you have to enter corresponding number from menu.
 Some functions may require you to input book id or exact username.
+
+
+About Files:
+All the classes and driver code are present in "driver.cpp".
+"Books.txt" can save the list of books with its attributes.
+"admin.txt" and "user.txt" has the login credentials for librarian and user respectively.
+Other text files are for proper working of program.
+
+Note: You need to place all the text files present in repository with "driver.cpp" to get this program working properly.
+
+About Code:
+C++ code is based on object oriented programming.
