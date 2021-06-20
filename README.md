@@ -4,9 +4,7 @@ Here is a Library Mangment System written in c++.
 
 
 It has two panels. One for user and other for librarian.
-
 Both user and librarian need to log in to use this system.
-
 User can sign up for a new account but librarian will be provided with login credentials of existing account.
 
 
@@ -28,7 +26,6 @@ As a librarian you can view, add, delete and edit books. Librarian can handle th
 
 
 To choose the option from menu you have to enter corresponding number from menu.
-
 Some functions may require you to input book id or exact username.
 
 
@@ -38,11 +35,8 @@ Some functions may require you to input book id or exact username.
 About Files:
 
 All the classes and driver code are present in "driver.cpp".
-
 "Books.txt" can save the list of books with its attributes.
-
 "admin.txt" and "user.txt" has the login credentials for librarian and user respectively.
-
 Other text files are for proper working of program.
 
 
